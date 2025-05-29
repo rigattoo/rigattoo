@@ -4,6 +4,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigattoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   </a>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigattoo&layout=compact&langs_count=16&theme=dark"/>
+   <img height="130em" src="https://i.pinimg.com/736x/44/1f/6c/441f6c82ac89b1924b96c19535034dda.jpg"/>
 </div>
 
 <br/>  

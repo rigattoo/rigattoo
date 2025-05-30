@@ -1,9 +1,10 @@
-<h1>system.out.print("Olá! Eu sou o João Rigatto");</h1>
+<h1>system.out.println("Olá! Eu sou o João Rigatto");</h1>
 <div>
   <a href="https://github.com/rigattoo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigattoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigattoo&layout=compact&langs_count=16&theme=dark"/>
+   </a>
 </div>
 
 <br/>  

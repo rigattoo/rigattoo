@@ -17,9 +17,6 @@
 <a href="https://www.java.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="20px" /></a>  
 </div>
 
-</td><td valign="top" width="33%">
-
-
 
 <br/>  
 

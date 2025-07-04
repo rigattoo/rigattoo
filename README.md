@@ -3,7 +3,7 @@
   <a href="https://github.com/rigattoo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigattoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigattoo&layout=compact&langs_count=16&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigattoo&layout=compact&langs_count=16&theme=dark java"/>
    </a>
 </div>
 

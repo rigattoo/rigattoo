@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=10F700&width=435&lines=+welcome+to+my+portfolio+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=00F700&center=true&width=500&height=100&lines=+welcome+to+my+portfolio)](https://git.io/typing-svg)
+
+
 <h1>system.out.println("Olá! Eu sou o João Rigatto");</h1>
 <div>
   <a href="https://github.com/rigattoo">

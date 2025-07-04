@@ -1,11 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=00F700&center=true&width=500&height=100&lines=+welcome+to+my+portfolio)](https://git.io/typing-svg)
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=00F700&center=true&width=500&height=100&lines=+welcome+to+my+portfolio)](https://git.io/typing-svg)
 
-<h1>system.out.println("Olá! Eu sou o João Rigatto");</h1>
-<div>
-  
-<div>
+
+
+
   <a href="https://beacons.ai/rigattoo"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigattoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigattoo&layout=compact&langs_count=16&theme=dark"/>
@@ -27,7 +25,8 @@
 </div>  
   
 
-<br/>  
+<br/> 
+
 
 
 

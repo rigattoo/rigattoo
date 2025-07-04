@@ -3,6 +3,12 @@
 
 <h1>system.out.println("Olá! Eu sou o João Rigatto");</h1>
 <div>
+  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="20px" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="20px" /></a>    
+<a href="https://www.php.net/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="20px" /></a>  
+<a href="https://www.java.com/" target="_blank"><img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="20px" /></a>  
+
   <a href="https://github.com/rigattoo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigattoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 

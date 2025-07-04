@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=00F700&center=true&width=500&height=100&lines=+welcome+to+my+portfolio)](https://git.io/typing-svg)
 
-https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" />
 
 <h1>system.out.println("Olá! Eu sou o João Rigatto");</h1>
 <div>

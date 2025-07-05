@@ -5,19 +5,26 @@
 
 <br/>  
 
-  <a href="https://beacons.ai/rigattoo"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigattoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigattoo&layout=compact&langs_count=16&theme=dark"/>
-</div>
+
+ <div>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api?username=rigattoo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=66cc00&icon_color=66cc00&text_color=c9d1d9&bg_color=0d1117"/>
+   <img height="200px" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rigattoo&layout=compact&langs_count=7&hide_border=true&title_color=fff&icon_color=66cc00&text_color=fff&bg_color=0d1117"/>
+ </div>
 
 <br/>  
-<center>
-<div style="display: inline_block"><br>
- <img align="center" alt="rigattoo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="rigattoo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="rigattoo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-     <img align="center" alt="rigattoo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-     </div>
+
+
+<div align="center">
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" />
+
+</div>
+
+
+
 
 
 ## Connect with me  

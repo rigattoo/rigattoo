@@ -1,6 +1,6 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=00F700&center=true&width=500&height=100&lines=+welcome+to+my+portfolio)](https://git.io/typing-svg)
-<div align="center">
+
 <h4>Meu nome é João Guilherme Rigatto, tenho 15 anos e sou técnico em TI com atuação na área de informática. Atualmente, sou aluno da ETEC Lins, cursando Análise e Desenvolvimento de Sistemas. Sou especializado nas linguagens HTML5, CSS3, Java e PHP. Tenho aproximadamente um ano e meio de experiência na área e pretendo, no futuro, seguir carreira em Engenharia de Software e Cibersegurança.</h4>
 
 <br/>  
@@ -14,7 +14,7 @@
 <br/>  
 
 
-<div>
+<div align="center">
 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />

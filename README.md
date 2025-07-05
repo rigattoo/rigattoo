@@ -1,8 +1,9 @@
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&pause=1000&color=00F700&center=true&width=500&height=100&lines=+welcome+to+my+portfolio)](https://git.io/typing-svg)
 
+<h4>Meu nome é João Guilherme Rigatto, tenho 15 anos e sou técnico em TI com atuação na área de informática. Atualmente, sou aluno da ETEC Lins, cursando Análise e Desenvolvimento de Sistemas. Sou especializado nas linguagens HTML5, CSS3, Java e PHP. Tenho aproximadamente um ano e meio de experiência na área e pretendo, no futuro, seguir carreira em Engenharia de Software e Cibersegurança.</h4>
 
-
+<br/>  
 
   <a href="https://beacons.ai/rigattoo"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rigattoo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

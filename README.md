@@ -16,11 +16,12 @@
  
 
 <br/>  
-
-
+ 
+     
+   
 <div style="display: flex; align-items: flex-start; align: center">
-<table align="center">
-  <tr>
+  <table align="center">
+   <tr>  
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
       <br>Python
@@ -32,7 +33,8 @@
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
       <br>Java
-    </td>      
+    </td>    
+ 
  </tr>
 </table>
 </div>
@@ -55,6 +57,8 @@
 <a href="https://www.instagram.com/r.rigatto/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
+
+
 
 
 <br/> 

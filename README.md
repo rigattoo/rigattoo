@@ -3,7 +3,7 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rigattoo&label=Profile%20views&color=0e75b6&style=flat" alt="João-Rigatto" /> </p>
 
-<h4>Meu nome é João Guilherme Rigatto, tenho 15 anos e sou técnico em TI com atuação na área de informática. Atualmente, sou aluno da ETEC Lins, cursando Análise e Desenvolvimento de Sistemas. Sou especializado nas linguagens HTML5, CSS3, Java e PHP. Tenho aproximadamente um ano e meio de experiência na área e pretendo, no futuro, seguir carreira em Engenharia de Software e Cibersegurança.</h4>
+<h4>Meu nome é João Guilherme Rigatto, tenho 15 anos e sou técnico em TI com atuação na área de informática. Atualmente, sou aluno da ETEC Lins, cursando Análise e Desenvolvimento de Sistemas. Sou especializado nas linguagens HTML5, CSS3, Java e PHP (estou aprendendo e buscando mais conhecimentos nas linguagens c++ e python). Tenho aproximadamente um ano e meio de experiência na área e pretendo, no futuro, seguir carreira em Engenharia de Software e Cibersegurança.</h4>
 
 <br/>  
 
@@ -18,15 +18,24 @@
 <br/>  
 
 
-<div align="center">
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="52" alt="java logo" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="52" alt="php logo" />
-
+<div style="display: flex; align-items: flex-start; align: center">
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+      <br>Java
+    </td>      
+ </tr>
+</table>
 </div>
-
 
 
 

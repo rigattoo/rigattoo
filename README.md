@@ -3,7 +3,6 @@
 
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=rigattoo&label=Profile%20views&color=0e75b6&style=flat" alt="João-Rigatto" /> </p>
 
-<h4>Meu nome é João Guilherme Rigatto, tenho 15 anos e sou técnico em TI com atuação na área de informática. Atualmente, sou aluno da ETEC Lins, cursando Análise e Desenvolvimento de Sistemas. Sou especializado nas linguagens HTML5, CSS3, Java e PHP (estou aprendendo e buscando mais conhecimentos nas linguagens c++ e python). Tenho aproximadamente um ano e meio de experiência na área e pretendo, no futuro, seguir carreira em Engenharia de Software e Cibersegurança.</h4>
 
 <br/>  
 
